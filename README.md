@@ -1,2 +1,2 @@
 # Amazon-Superstore Dashboard
-End to end project
+End to end project.
